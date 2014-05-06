@@ -2,7 +2,7 @@
 
 _iso-8859-5_ is a robust JavaScript implementation of [the iso-8859-5 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-5).
 
-This encoding is known under the following names: csisolatincyrillic, cyrillic, iso-8859-5, iso-ir-144, iso8859-5, iso88595, iso_8859-5, iso_8859-5:1988, and iso_8859-5:1988.
+This encoding is known under the following names: csisolatincyrillic, cyrillic, iso-8859-5, iso-ir-144, iso8859-5, iso88595, iso_8859-5, and iso_8859-5:1988.
 
 ## Installation
 
