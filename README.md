@@ -1,6 +1,6 @@
 # iso-8859-5 [![Build status](https://travis-ci.org/mathiasbynens/iso-8859-5.svg?branch=master)](https://travis-ci.org/mathiasbynens/iso-8859-5) [![Dependency status](https://gemnasium.com/mathiasbynens/iso-8859-5.svg)](https://gemnasium.com/mathiasbynens/iso-8859-5)
 
-_iso-8859-5_ is robust JavaScript implementation of [the iso-8859-5 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-5).
+_iso-8859-5_ is a robust JavaScript implementation of [the iso-8859-5 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#iso-8859-5).
 
 This encoding is known under the following names: csisolatincyrillic, cyrillic, iso-8859-5, iso-ir-144, iso8859-5, iso88595, iso_8859-5, iso_8859-5:1988, and iso_8859-5:1988.
 
