@@ -51,7 +51,7 @@ module.exports = function(grunt) {
 					}
 				},
 				'files': {
-					'iso88595.js': ['src/iso88595.js']
+					'iso-8859-5.js': ['src/iso-8859-5.js']
 				}
 			},
 			'build-tests': {
