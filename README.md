@@ -1,4 +1,4 @@
-# iso-8859-5 [![iso-8859-5 on npm](https://img.shields.io/npm/v/iso-8859-5)](https://www.npmjs.com/package/iso-8859-5)
+# iso-8859-5 [![Build status](https://github.com/mathiasbynens/iso-8859-5/workflows/run-checks/badge.svg)](https://github.com/mathiasbynens/iso-8859-5/actions?query=workflow%3Arun-checks) [![iso-8859-5 on npm](https://img.shields.io/npm/v/iso-8859-5)](https://www.npmjs.com/package/iso-8859-5)
 
 _iso-8859-5_ is a robust JavaScript implementation of [the iso-8859-5 character encoding as defined by the Encoding Standard](https://encoding.spec.whatwg.org/#iso-8859-5).
 
