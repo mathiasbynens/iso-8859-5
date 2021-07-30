@@ -1,4 +1,4 @@
-/*! https://mths.be/iso-8859-5 v1.0.2 by @mathias | MIT license */
+/*! https://mths.be/iso-8859-5 v1.1.0 by @mathias | MIT license */
 ;(function() {
 
 	const stringFromCharCode = String.fromCharCode;
@@ -101,7 +101,7 @@
 			'iso_8859-5',
 			'iso_8859-5:1988'
 		],
-		version: '1.0.2',
+		version: '1.1.0',
 	};
 
 	module.exports = iso88595;
